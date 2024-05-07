@@ -1,0 +1,119 @@
+.navebar {
+    display: inline;
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(255, 255, 255);
+    width: 1330px;
+    box-shadow: 1px 2px 2px 1px rgb(166, 160, 160);
+}
+
+body {
+    background-color: aquamarine;
+}
+
+.navebar {
+    justify-content: space-between;
+}
+
+.navebar1 {
+    align-self: flex-end;
+    /* margin-left: -20%; */
+    text-indent: 80px;
+}
+
+.nav4 {
+    text-indent: 30px;
+    margin: ;
+}
+
+.side {
+    display: inline-block;
+    column-gap: 20px;
+}
+
+.img {
+    margin-bottom: -100px;
+}
+
+.story {
+    padding: 10px;
+    margin-left: 350px;
+    margin-top: -10px;
+    border-radius: 10%;
+    border-radius: 10px;
+}
+
+.img {
+    margin-bottom: -40px;
+    margin-top: 20px;
+}
+
+.plus {
+    border-radius: 10px;
+    margin-top: 45px;
+}
+
+.live {
+    background-color: rgb(242, 246, 244);
+    width: 450px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px 5px rgb(142, 130, 130);
+}
+
+.in {
+    width: 400px;
+    height: 40px;
+}
+
+.fa-video {
+    margin: 10px;
+}
+
+.fa-image {
+    margin: 20px;
+}
+
+.fa-face-smile {
+    margin: 20px;
+}
+
+.khang {
+    margin-left: 444px;
+    margin-top: -20px;
+}
+
+.ali {
+    background-color: rgb(255, 255, 255);
+    /* border-radius: 20px; */
+    border-start-start-radius: 20px;
+    box-shadow: 5px 5px 5px 5px rgb(142, 130, 130);
+    width: 400px;
+    height: 90px;
+}
+
+p {
+    font-weight: bolder;
+}
+
+.side {
+    position: fixed;
+}
+
+.navebar {
+    position: fixed;
+}
+
+.sponsored {
+    margin-left: 1176px;
+    margin-top: -2857px;
+    position: fixed;
+}
+
+#hr {
+    width: 150px;
+}
+
+.kkkk {
+    height: 100px;
+    width: 10px;
+}
